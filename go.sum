@@ -1,0 +1,6 @@
+github.com/MasterOfBinary/go-opencl v0.0.0-20161217130610-e11c0e14990e h1:ROZtjI4jZN+Rc98cRbj9y58E8edncyX+2Ohl2xGf2GI=
+github.com/MasterOfBinary/go-opencl v0.0.0-20161217130610-e11c0e14990e/go.mod h1:3BSIeNNOLWk2Rh2buXbAu4UGFmbtIjtzF2KqI5dt4K0=
+github.com/hupe1980/go-mtl v0.0.3 h1:fJzpMV1MpUtQS25KWl1dPPT20CW2/M4jGSekYUAWnhA=
+github.com/hupe1980/go-mtl v0.0.3/go.mod h1:Gi8Q49J5ub/pEVUC8FdYxP3WnbguBRhM5fej/qjIZ+o=
+github.com/opengs/go-opencl v0.0.0-20240317163046-80fe57c0f03d h1:oMuoWW6rMtukCr4/kaiekAHONludrAj6ZYz1Xcd2cs0=
+github.com/opengs/go-opencl v0.0.0-20240317163046-80fe57c0f03d/go.mod h1:9/eFjWtN9uIvYJ14ewltUt4lomTLk8MqNRp58mbUK8g=
